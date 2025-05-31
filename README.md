@@ -1,2 +1,2 @@
-# GPCR-Ligand-PPI-Boltz1-Pipeline
+# GPCR_Ligand_PPI_Screening_Pipeline
 Boltz1を用いて、GPCRとリガンドのPPIを予測するスクリーニングパイプラインです。
